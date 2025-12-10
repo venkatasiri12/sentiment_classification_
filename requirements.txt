@@ -1,0 +1,14 @@
+datasets
+transformers
+accelerate
+evaluate
+scikit-learn
+pandas
+numpy
+joblib
+tensorflow>=2.11
+shap
+lime
+streamlit
+fastapi
+uvicorn
